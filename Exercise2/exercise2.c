@@ -11,6 +11,9 @@ void main(){
 	printf("Introduce the second number: ");
 	scanf("%d", &sumando);
 	resultado += sumando;
+	printf("Introduce the third number: ");
+	scanf("%d", &sumando);
+	resultado += sumando;
 	
 	printf("the result is %d", resultado);
 }
